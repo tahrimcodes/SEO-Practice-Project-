@@ -35,3 +35,13 @@ https://topclicks.in/top-coding-tips-to-build-programming-skills/
 - Add more SEO-optimized blog posts
 - Improve internal linking
 - Track performance in Google Search Console
+
+- ## 🌍 Off-Page SEO (Beginner Practice)
+
+For hands-on off-page SEO practice, I implemented the following:
+
+- **Classified Submission**: Created posts on OLX, Quikr, ClickIndia linking to my blog.
+- **Social Bookmarking**: Submitted my blog link on Pinterest, Mix.com, Reddit (relevant subreddits).
+- **Profile Creation**: Added website link in bio on Medium and Quora.
+- **Q&A Participation**: Answered beginner coding questions on Quora with blog link reference.
+
