@@ -26,16 +26,6 @@ https://topclicks.in/top-coding-tips-to-build-programming-skills/
 ## 📊 SEO Result
 - Rank Math SEO Score: **82/100**
 
-## 📚 Learning Outcome
-- Learned how to optimize a blog for a target keyword
-- Understood importance of on-page SEO factors
-- Gained hands-on experience using SEO plugins
-
-## 🔮 Future Improvements
-- Add more SEO-optimized blog posts
-- Improve internal linking
-- Track performance in Google Search Console
-
 - ## 🌍 Off-Page SEO (Beginner Practice)
 
 For hands-on off-page SEO practice, I implemented the following:
@@ -44,4 +34,16 @@ For hands-on off-page SEO practice, I implemented the following:
 - **Social Bookmarking**: Submitted my blog link on Pinterest, Mix.com, Reddit (relevant subreddits).
 - **Profile Creation**: Added website link in bio on Medium and Quora.
 - **Q&A Participation**: Answered beginner coding questions on Quora with blog link reference.
+
+- ## 📚 Learning Outcome
+- Gained hands-on experience in on-page SEO optimization
+- Understood importance of meta tags, headings, URL structure, and content optimization
+- Learned basic off-page SEO techniques and link-building strategies
+  
+---
+
+## 🔮 Future Plan
+- Add more SEO-optimized blog posts
+- Improve off-page backlinks through safe techniques
+- Track SEO performance using Google Search Console
 
