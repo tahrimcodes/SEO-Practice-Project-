@@ -1,8 +1,8 @@
 # SEO-Practice-Project-
 Beginner SEO project: On-page SEO optimization for WordPress blog.
-# On-Page SEO Project – Coding Tips Blog
+# SEO Project – Coding Tips Blog
 
-This project demonstrates my practical understanding of **on-page SEO** by optimizing a blog post targeting the keyword **"coding tips"**.
+This project demonstrates my practical understanding of **on-page SEO** and **off-page SEO** by optimizing a blog post targeting the keyword **"coding tips"**.
 
 ## 🔗 Live Blog URL (Optimized Page)
 https://topclicks.in/top-coding-tips-to-build-programming-skills/
